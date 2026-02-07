@@ -15,7 +15,7 @@ The project features:
 ### Requirements
 Make sure you have [Apache Tomcat](https://tomcat.apache.org/) installed and configured on your system, as described in Section 5 of [`Especificaciones.pdf`](docs/Especificaciones.pdf).
 
-Place the required library [`json.jar`](lib/json.jar) inside `public_html/webapps/WEB-INF/lib`.
+Place the required library [`json.jar`](web/lib/json.jar) inside `$HOME/public_html/webapps/WEB-INF/lib`, and the [`web.xml`](web/web.xml) file inside `$HOME/public_html/webapps/WEB-INF/`.
 
 ### Compilation
 Make sure you have a [Java JDK](https://www.oracle.com/java/technologies/downloads/) installed on your system. Then compile all Java classes and generate the `.class` files with:
