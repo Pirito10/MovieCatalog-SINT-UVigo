@@ -1,5 +1,3 @@
-package p2;
-
 // Clase que representa un actor/actriz
 public class Cast {
     private String id;

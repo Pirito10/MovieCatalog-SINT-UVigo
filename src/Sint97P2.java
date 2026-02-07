@@ -1,5 +1,3 @@
-package p2;
-
 import java.io.*;
 import java.util.ArrayList;
 import jakarta.servlet.http.*;

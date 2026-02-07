@@ -1,5 +1,3 @@
-package p2;
-
 // Clase que representa una película
 public class Movie {
     private String id;
